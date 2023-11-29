@@ -6,8 +6,10 @@ Written in Python.
 Depends on:
 * Python
   * Flask
+  * Gunicorn
   * requests
 * A local RVN node
+  * Set server=1 in raven.conf
 * Cryptoscope.io API
 
 
